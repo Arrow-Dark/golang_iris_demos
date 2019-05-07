@@ -5,7 +5,7 @@ import (
 	"github.com/kataras/iris/middleware/logger"
 	"github.com/kataras/iris/middleware/recover"
 	"github.com/kataras/iris/mvc"
-	"first_iris_demo/controllers"
+	"golang_iris_demos/iris_demo_01/controllers"
 )
 
 func main() {
